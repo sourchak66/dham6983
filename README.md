@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dham6983 Life Long Learner and Avid Traveller
 - 👀 I’m interested in Agile Software Developement,Infrastucture Developement,Public Cloud,Microservice and Related challenges etc. (To name a few)
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning node.js , typescript
 - 💞️ I’m looking to collaborate on any node.js open source project.
 - 📫 How to reach me mailto: debabrata6983@gmail.com
 
