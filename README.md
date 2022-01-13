@@ -1,7 +1,19 @@
 - 👋 Hi, I’m @dham6983 Life Long Learner and Avid Traveller
-- 👀 I’m interested in Agile Software Developement,Infrastucture Developement,Public Cloud,Microservice and Related challenges etc. (To name a few)
-- 🌱 I’m currently learning node.js , typescript
-- 💞️ I’m looking to collaborate on any node.js open source project.
+- 👀 I’m interested in 
+  - Node js 
+  - typescript 
+  - Python 
+  - Flask 
+  - Django 
+  - REST APIs
+  - Agile Software Developement
+  - Infrastucture Developement 
+  - Public Cloud (AWS & OCI) 
+  - Cloud Automation using terraform & Ansible 
+  - CI/CD automation using Heroku/CircleCI/Jenkins
+  - Microservice and Related challenges etc. (To name a few)
+- 🌱 I’m currently learning Angular, React framework, GraphQL and I'm working on enchnaing my story telling skill.
+- 💞️ I’m looking to collaborate on any Angular/React open source project.
 - 📫 How to reach me mailto: debabrata6983@gmail.com
 
 <!---
