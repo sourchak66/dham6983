@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning Angular, React framework, GraphQL and I'm working on enchnaing my story telling skill.
 - 💞️ I’m looking to collaborate on any Angular/React open source project.
 - 📫 How to reach me mailto: debabrata6983@gmail.com
+- ⚡ Fun fact: 🤔 🐼
 
 <!---
 dham6983/dham6983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
