@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dham6983 Life Long Learner and Avid Traveller
 - 👀 I’m interested in 
+  - Java , J2EE , Spring boot
   - Node js 
   - typescript 
   - Python 
