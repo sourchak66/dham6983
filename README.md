@@ -23,3 +23,9 @@ dham6983/dham6983 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://komarev.com/ghpvc/?username=dham6983&label=PROFILE+VIEWS&style=plastic)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dham6983&layout=compact&theme=cobalt)
+
+![](https://github-readme-stats.vercel.app/api?username=dham6983&count_private=true&show_icons=true&theme=cobalt)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dham6983)
